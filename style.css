@@ -1,3 +1,20 @@
 body {
     background-color: gray;
 }
+
+.verde {
+    color: green;
+}
+
+#fondorojo {
+    background-color: red;
+    width: 100px;
+}
+
+.sub.head {
+    background-color: black;
+}
+
+.sub {
+    color: white;
+}
