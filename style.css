@@ -1,20 +1,19 @@
-body {
-    background-color: gray;
+* {
+    font-size: 20px;
 }
 
-.verde {
-    color: green;
+
+p {
+    border: 1px solid black;
+    padding: 10px;
 }
 
-#fondorojo {
-    background-color: red;
-    width: 100px;
+ul {
+    display: flex;
+    list-style-type: none;
 }
 
-.sub.head {
-    background-color: black;
-}
-
-.sub {
-    color: white;
+li {
+    border: 1px solid black;
+    padding: 10px;
 }
