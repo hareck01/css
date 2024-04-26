@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+}
+
+.one {
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    box-sizing: content-box;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid black;
+}
+
+.two {
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid black;
+}
