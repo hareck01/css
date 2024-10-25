@@ -1,3 +1,17 @@
 body {
     background-color: gray;
 }
+
+.faltante {
+    color: red;
+}
+
+#secreto {
+    color: white;    
+}
+
+p {
+    font-family: monospace;
+    font-size: 16px;
+    color: rgba(22, 80, 134, 0.842);
+}
